@@ -1,0 +1,11 @@
+/* Slightly larger content + nicer typography */
+.page-content { max-width: 860px; }
+
+/* Simple “cards” for sections if you want to use them */
+.card {
+  padding: 14px 16px;
+  border: 1px solid rgba(0,0,0,0.10);
+  border-radius: 14px;
+  margin: 12px 0;
+}
+.card h3 { margin-top: 0; }
