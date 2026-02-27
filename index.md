@@ -31,9 +31,9 @@ and diffusion-based protein generation.
 ## Research Interests
 
 - De novo protein design
-- Neurodegenerative-relavent protein aggregation structure analysis
+- Protein structure analysis
 - Diffusion models for protein generation
-
+- Neurodegenerative protein aggregation
 ---
 
 ## Patents 
