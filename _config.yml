@@ -1,3 +1,10 @@
+title: Alexia Telios
+description: Chemistry PhD student | protein design | 
 theme: jekyll-theme-minimal
-title: Alexia's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# Optional: show downloads link in minimal theme
+show_downloads: false
+
+# Optional: these help GitHub Pages builds
+plugins:
+  - jekyll-seo-tag
